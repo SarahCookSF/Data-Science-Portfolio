@@ -1,6 +1,7 @@
 # Data-Science-Portfolio
 
 # Stata
+
 ## Smoking Regression Analysis (BRFSS 2015 - Louisiana)
 
 This project uses Behavioral Risk Factor Surveillance System (BRFSS) 2015 data for Louisiana to explore correlations between smoking and variables such as sex, marital status, and binge drinking behavior.
