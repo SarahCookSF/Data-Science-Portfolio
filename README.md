@@ -6,16 +6,17 @@ I'm a data enthusiast with a background in Neuroscience and Economics, currently
 I bring together analytical depth from my science background and real-world application through roles in education, investment research, and tech recruiting. Whether I’m designing fantasy Survivor databases (yes, really!) or writing functions in C++ to reverse-engineer strings, I’m motivated by solving interesting problems and making sense of messy data.
 
 ---
-## 📬 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/SarahAnneCook)
-- 📫 scook5@tulane.edu
----
+
 ## 🧠 Background Snapshot
 - 🎓 Neuroscience & Economics @ Tulane University  
 - 📊 Data Analytics Certificate @ City College of San Francisco (Dec 2024)
 - 🎓 Teaching Assistant for SQL Databases & MySQL Programming
 - 🔬 Lab assistant in neuroscience research, investment intern, and education professional
 - 🧰 Tools: Python, C++, SQL, Tableau, Java, Stata
+---
+## 📬 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/SarahAnneCook)
+- 📫 scook5@tulane.edu
 
 ---
 
