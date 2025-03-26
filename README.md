@@ -18,7 +18,7 @@ I bring together analytical depth from my science background and real-world appl
 
 ## 📁 What You'll Find in This Repository
 
-This GitHub serves as a hub to showcase my projects, track my learning, and share examples of how I apply data tools to real-world questions. Projects range from classroom-inspired work to independent explorations — like building a fantasy Survivor schema with relational SQL tables.
+This GitHub serves as a hub to showcase my projects, track my learning, and share examples of how I apply data tools to real-world questions. Projects range from classroom-inspired work to independent explorations.
 
 ---
 
