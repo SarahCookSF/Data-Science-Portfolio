@@ -11,7 +11,6 @@ This project uses BRFSS 2015 data for Louisiana to explore correlations between 
 - Women are ~2.9% less likely to smoke than men.
 - Married individuals are ~4.6% less likely to smoke than those never married.
 - Binge drinkers show a slight negative correlation with smoking (~1.76%).
-- Pregnant women are ~5.23% less likely to smoke than non-pregnant women.
 
 Both Breusch-Pagan and White tests indicate evidence of heteroskedasticity in initial models, which was reduced in models replacing `sex` with `pregnant`.
 
