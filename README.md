@@ -1,11 +1,12 @@
 # Data-Science-Portfolio
 
-# Smoking Regression Analysis (BRFSS 2015 - Louisiana)
+# Stata
+## Smoking Regression Analysis (BRFSS 2015 - Louisiana)
 
-This project uses BRFSS 2015 data for Louisiana to explore correlations between smoking and variables such as sex, marital status, and binge drinking behavior.
+This project uses Behavioral Risk Factor Surveillance System (BRFSS) 2015 data for Louisiana to explore correlations between smoking and variables such as sex, marital status, and binge drinking behavior.
 
 ## Tools
-- Stata `.do` file for variable generation, regression analysis, and heteroskedasticity tests
+- Stata for variable generation, regression analysis, and heteroskedasticity tests
 
 ## Key Findings
 - Women are ~2.9% less likely to smoke than men.
