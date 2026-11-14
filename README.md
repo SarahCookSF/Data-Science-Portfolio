@@ -26,6 +26,23 @@ This GitHub serves as a hub to showcase my projects, track my learning, and shar
 
 ---
 
+## 📊 Featured Projects
+
+### [School Experiences and Student Mental Health](School-Experiences-and-Mental-Health/)
+
+**Python | pandas | seaborn | SciPy | Statistical Analysis**
+
+Analyzed CDC 2025 National Youth Risk Behavior Survey data to explore relationships between school connectedness, bullying, safety-related absences, and student mental health.
+
+- Examined responses from over 10,000 high school students.
+- Used exploratory data analysis, visualizations, chi-square tests, and Spearman's rank correlation.
+- Found that students reporting bullying, weaker school connectedness, or safety-related absences also reported higher rates of poor mental health.
+- Assessed missing data and documented limitations related to survey weighting, sampling design, and causal interpretation.
+
+**[View Project and Jupyter Notebook](School-Experiences-and-Mental-Health/)**
+
+---
+
 # Stata
 
 ## Smoking Regression Analysis (BRFSS 2015 - Louisiana)
