@@ -1,22 +1,22 @@
-# Sarah Cook - Data Science Portfolio
-# 👋 Hi, I'm Sarah!
 
-I'm a data enthusiast with a background in Neuroscience and Economics, currently expanding my toolkit with a certificate in Data Analytics Fundamentals. With hands-on experience as a Teaching Assistant for a SQL Databases course and a growing portfolio of projects in Python, SQL, and C++, I love turning complex data into clean, insightful stories.
+## 👋 Hi, I'm Sarah!
 
-I bring together analytical depth from my science background and real-world application through roles in education, investment research, and tech recruiting. Whether I’m designing fantasy Survivor databases (yes, really!) or writing functions in C++ to reverse-engineer strings, I’m motivated by solving interesting problems and making sense of messy data.
+I'm a data enthusiast with a background in Neuroscience and Economics and a certificate in Data Analytics Fundamentals from City College of San Francisco. I enjoy using data to explore human behavior, uncover patterns, and turn complex information into meaningful insights.
+
+My experience spans education, neuroscience research, and investment research. As a Teaching Assistant for courses in SQL, data visualization, and Foundations of Data Science, I've helped students develop their programming, analytical, and problem-solving skills. My work as a preschool teacher has also strengthened my interest in how data can inform decisions that support students and educators.
+
+Whether I'm analyzing student experiences using national survey data or designing a database for a fantasy Survivor season (yes, really!), I'm motivated by asking interesting questions, working through messy data, and communicating what I discover.
 
 ---
 
 ## 🧠 Background Snapshot
-- 🎓 Neuroscience & Economics @ Tulane University  
-- 📊 Data Analytics Certificate @ City College of San Francisco (Dec 2024)
-- 🎓 Teaching Assistant for SQL Databases & MySQL Programming
-- 🔬 Lab assistant in neuroscience research, investment intern, and education professional
-- 🧰 Tools: Python, C++, SQL, Tableau, Java, Stata
----
-## 📬 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/SarahAnneCook)
-- 📫 scook5@tulane.edu
+
+- 🎓 **Education:** B.S. in Neuroscience & Economics, Tulane University
+- 📊 **Certificate:** Data Analytics Fundamentals, City College of San Francisco (Dec 2024)
+- 💻 **Teaching Assistant:** SQL Databases, MySQL Programming, Data Visualization, and Foundations of Data Science
+- 🔬 **Professional experience:** Preschool education, neuroscience research, and investment research
+- 🧰 **Technical skills:** Python, SQL, Tableau, Stata, Java, C++
+- 📈 **Analytical skills:** Data cleaning, exploratory analysis, data visualization, statistical hypothesis testing, and database design
 
 ---
 
